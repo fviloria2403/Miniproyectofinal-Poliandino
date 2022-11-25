@@ -1,4 +1,4 @@
-## Proyecto Ficticio 
+## Proyecto Final Poliandino
 
-Proyecto Ficticio de simulación de carrito de compras sobre una tienda de Café y Tortas.
+Versión una tienda de Café y Tortas.
 
